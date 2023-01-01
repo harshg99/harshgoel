@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Reinforcement Learning for Agile Active Target Sensing with a UAV"
+date:   2022-27-10 20:00:00 +00:00
+image: 
+categories: research
+author: "Harsh Goel"
+authors: "<strong>Leonid Keselman</strong> Laura Jarin Lipschitz
+, Saurav Agarwal
+, Sandeep Manjanna
+ and Vijay Kumar"
+venue: "2nd Workshop on Trends and Advances in Machine Learning and Automated Reasoning for Intelligent Robots and Systems IROS(2022)"
+arxiv: https://arxiv.org/abs/2212.08214
+code: 
+---
+Preliminary results on our RL method with motion primtives and skills for Informative Path Planning. Our method outperforms traditional heuristic commonly used for informative path planning algorithms in an active target classification task. 
