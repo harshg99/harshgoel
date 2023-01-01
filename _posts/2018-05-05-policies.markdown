@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  "Stochastic Sampling of Parametric Policies"
-date:   2018-05-05 21:21:53 +00:00
-image: /images/stochopt.png
-categories: CMU
-course: "16-745: Dynamic Optimization"
-author: "Leo Keselman"
-paper: /pdfs/16745_lkeselma.pdf
----
-Using a very simple algorithm to solve some very simple environments
+title:  "Learning goal conditioned control policies for quadorotor naviagation"
+date:   2022-12-31 21:21:53 +00:00
 
-With [Chris Atkeson](http://www.cs.cmu.edu/~cga/) and Alex Spitzer. Using optimizers to match an observed trajectory.
+categories: Ongoing Research
+
+author: "Harsh Goel"
+authors: "<strong>Harsh Goel</strong>, Pratik Kunapuli
+, Edward Hu
+, Dinesh Jayaraman
+ and Vijay Kumar"
+paper:
+venue: 
+arxiv: 
+code:
+---
+Developing a training proceudre that couples goal conditioned polices pretrained with offline data for quadrotor navigation to generalize well to navigate to arbitrary goals with online exploration.
