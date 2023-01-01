@@ -1,15 +1,20 @@
 ---
 layout: post
-title:  "Direct Fitting of Gaussian Mixture Models"
-date:   2019-05-29 22:21:59 +00:00
-image: /images/crv19.png
+title:  "SocialLight: Distributed Cooperation Learning towards
+Network-Wide Traffic Signal Control"
+date:   2022-10-29 07:21:59 +00:00
+image: 
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "Computer and Robot Vision Conference"
-arxiv: https://arxiv.org/abs/1904.05537
-slides: /pdfs/crv19-slides.pdf
-code: https://github.com/leonidk/direct_gmm
+author: "Harsh Goel"
+authors: "<strong>Harsh Goel</strong>,Yifeng Zhang, Mehul Damani, Guillaume Sartoretti"
+venue: "Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
+arxiv: To be released
+code: To be released
 ---
 
-A formulation for fitting Gaussian Mixture Models (GMMs) directly to geometric objects, such as a triangular mesh. This method produces more robust results and produces an improvement in 3D registration for both meshes and RGB-D frames. 
+We propose a new MARL method for
+traffic signal control, SocialLight, which learns cooperative traffic
+control policies by distributedly estimating the individual marginal
+contribution of agents on their local neighborhood. Our results show that SocialLight
+exhibits improved scalability to larger road networks and better
+performance across usual traffic metrics.
